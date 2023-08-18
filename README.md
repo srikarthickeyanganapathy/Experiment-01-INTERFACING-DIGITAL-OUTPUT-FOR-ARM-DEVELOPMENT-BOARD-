@@ -292,10 +292,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
 ### CASE 1: ON
-![on](![WhatsApp Image 2023-08-18 at 11 31 59](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/8c90d78b-2cbf-41c0-9a1d-b4bb8f2e9d72)
+![ON](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/8c90d78b-2cbf-41c0-9a1d-b4bb8f2e9d72)
 
 ### CASE 2: OFF
-![off](![WhatsApp Image 2023-08-18 at 11 31 59](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/a6101f8a-ee9c-4b3e-bcec-850741078241)
+![OFF](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/a6101f8a-ee9c-4b3e-bcec-850741078241)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
