@@ -141,10 +141,10 @@ static void MX_GPIO_Init(void)
 ```
 ## Output  :
 ### CASE 1: ON
-![ON](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/8c90d78b-2cbf-41c0-9a1d-b4bb8f2e9d72)
+![image](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/df04b8dd-8723-42b3-bf0f-b281af3a7d7b)
 
 ### CASE 2: OFF
-![OFF](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/a6101f8a-ee9c-4b3e-bcec-850741078241)
+![image](https://github.com/srikarthickeyanganapathy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119393842/f1dcaf78-1cda-4f3c-be21-c688e6bcd276)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
